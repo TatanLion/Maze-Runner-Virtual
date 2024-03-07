@@ -1,4 +1,4 @@
-# Tech Hawaii
+# Maze Runner Virtual
 
 Simulador basico de juego donde la idea es pasar los obstaculos, alcanzar la meta y romper el record de tiempo en conseguirlo.
 
